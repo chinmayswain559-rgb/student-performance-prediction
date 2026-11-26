@@ -21,6 +21,18 @@ A command-line app that predicts if a student's performance is High, Medium or L
 - `main.py` - trains the 3 models, picks the best and predicts
 - `students.csv` - sample data
 - `eda_performance.png` and `eda_correlation.png` - graphs
+- ## Output Screenshots
+See the `output_screenshots` folder for sample runs (High, Medium and Low predictions).
+
+## Report
+The project report PDF is also in the `output_screenshots` folder.
+
+## How to run
+```
+pip install -r requirements.txt
+python main.py
+```
+Type numbers only (no % sign) when asked.
 
 ## Author
 Chinmaya Swain
